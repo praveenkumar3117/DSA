@@ -1,0 +1,2 @@
+Sometimes when you are asked to count the number of substrings for some conditions, you can think of of a way where you sum up the substrings which are starting from a index i and satisfy the conditions, suppose substring(i,j) satisfy some condition, and might possible the substring(i,j+k) for k>0 & j+k<n also satisfy the condition, so you can simply add
+ n-j to the answer. And then start moving the index i one step ahead, and follow the same procedure. Its not the exact approach. Just a hint. 
