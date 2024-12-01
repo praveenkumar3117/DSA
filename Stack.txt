@@ -1,0 +1,1 @@
+1. Always revise the concept of monotonic stack. Next greater element/ Next smaller element.
